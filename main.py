@@ -3,6 +3,8 @@ import shutil
 
 print("You will have to run this every time roblox updates. I might be able to make it automatic.")
 
+
+
 def deleteFile(dirSounds):
     if os.path.exists(dirSounds):
         if os.path.exists(dirSounds+"\\content\\sounds\\ouch.ogg"):
@@ -14,6 +16,7 @@ def deleteFile(dirSounds):
 dirRoblox = input("Dir: \n")
 deleteFile(dirRoblox)
 oofSound = "sounds/ouch.ogg"
+
 
 movedOofSound = shutil.move(oofSound, dirRoblox+"\\content\\sounds")
 print("Added new oof")
