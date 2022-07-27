@@ -20,6 +20,8 @@ Then in your file explorer on the path you want to click on it a copy it.
 
 ![image](https://user-images.githubusercontent.com/83465599/181310073-5f1d2d7c-b42b-4c7c-a0f7-5e3edd216261.png)
 
+If you haven't ran `main.py` then run after that paster in your path which is the path you copied in file explorer.
+
 That should be it, if there are any errors or bugs report it in `issues`.
 
 Discord: Alternative#6044
