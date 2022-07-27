@@ -1,7 +1,7 @@
 import os
 import shutil
 
-from numpy import source
+print("You will have to run this every time roblox updates. I might be able to make it automatic.")
 
 def deleteFile(dirSounds):
     if os.path.exists(dirSounds):
