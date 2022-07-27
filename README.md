@@ -5,7 +5,7 @@ Roblox recently removed the oof sound so now you can restore the iconic "OOF" so
 
 **Download python version 3+**
 
-**Download this as a zip file and run ** `main.py`
+**Download this as a zip file and run** `main.py`
 
 This is pretty simple to use.
 You will a path to you roblox file, this is easy to do simply go to you search bar and find roblox. Then you will need press "Open File Location"
